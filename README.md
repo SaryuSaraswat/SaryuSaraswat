@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **saryusaraswat2003@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1ascSBKy9AwCC19-aK2MEC5huTnAFdO-O/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
