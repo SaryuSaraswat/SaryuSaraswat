@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaryuSaraswat/](https://github.com/SaryuSaraswat/)
 
-- ⚡ Fun fact [Little by little, the slow progress turns into something extraordinary.](Little by little, the slow progress turns into something extraordinary.)
+- ⚡ Fun fact Little by little, the slow progress turns into something extraordinary.
 
 - 💬 Ask me about **frontened development.**
 
